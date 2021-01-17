@@ -1,0 +1,41 @@
+body {
+    padding: 0;
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+}
+
+#navbar {
+    width: 100%;
+    display: flex;
+    justify-content: flex-end;
+    padding: 5px;
+    align-items: center;
+    background-color: rgb(190,49,68);
+}
+
+.nav-link{
+    font-family: fantasy;
+    color: white;
+    font-size: 24px;
+    font-weight: bold;
+    text-decoration: none;
+    padding: 2.5%;
+}
+
+#welcome-section {
+    display: flex;
+    justify-content: center;
+}
+
+.projects-title{
+    display: flex;
+    justify-content: center;
+    height: 400px;
+    align-items: center;
+    background: linear-gradient(62deg, #3a3d40 0%, #181719 100%);
+    color: white;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 24px;
+}
+
