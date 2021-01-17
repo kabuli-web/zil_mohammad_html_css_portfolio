@@ -67,7 +67,23 @@ body {
 .project-img{
     width: inherit;
 }
-footer{
+
+
+
+#footer {
     display: flex;
-    flex-direction: column;
+    flex-direction:row;
+    background: #303841;
+    height: 30vh;
+    justify-content: center;
 }
+
+#footer a {
+    padding-right: 10px;
+    color: white;
+    font-size: 30px;
+    padding-left: 20px;
+
+}
+
+
