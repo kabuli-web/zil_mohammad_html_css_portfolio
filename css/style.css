@@ -195,14 +195,12 @@ h1,h2,h5{
     }
     
     #footer a {
-        padding-right: 10px;
+        margin-right: 10px;
         color: white;
         font-size: 30px;
-        padding-left: 20px;
+        margin-left: 20px;
     
     }
-
-    
     
   }
 
